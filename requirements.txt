@@ -1,5 +1,5 @@
 cffi==1.14.5
-cryptography==3.4.7
+cryptography==39.0.1
 lark-parser==0.11.2
 msoffcrypto-tool==4.11.0
 olefile==0.46
